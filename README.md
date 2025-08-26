@@ -1,5 +1,7 @@
 # Space Jam Presets
 
+[DOWNLOAD LINK](https://github.com/handeyeco/space-jam-presets/archive/refs/heads/main.zip)
+
 These are presets for the [Dirtywave M8](https://dirtywave.com/) for the Discord Community Jam #041: Space. The optional goal of the jam is "create one or more original preset(s) that can be added to a preset pack"
 
 | Preset | Sound Designer |
