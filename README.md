@@ -57,3 +57,6 @@ These are presets for the [Dirtywave M8](https://dirtywave.com/) for the Discord
 | PD=POLYDET2 | @ineffable twaddle |
 | PD=NEBULA C | @ineffable twaddle |
 | DREDBESS | @Metro Grade |
+| CALM | @rolkinn |
+| DROPLET | @rolkinn |
+| SWELL | @rolkinn |
