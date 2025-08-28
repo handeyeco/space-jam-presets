@@ -4,20 +4,21 @@
 
 These are presets for the [Dirtywave M8](https://dirtywave.com/) for the Discord Community Jam #041: Space. The optional goal of the jam is "create one or more original preset(s) that can be added to a preset pack"
 
-| Preset | Sound Designer |
-| ------ | -------------- |
+| Preset | Sound Designer | Sample |
+| ------ | -------------- | ------ |
 | BS_ACID-JEG | @jegasus |
 | SPACESAX | @Elad Hen |
 | MAGBOTTLE_BS | @miscbill |
 | SUB BASS | @nickypy |
 | WAVSAWBASS | @nickypy |
 | TRI LEAD | @nickypy |
-| S-BASS | @Bearcage |
-| S-LAZER | @Bearcage |
-| S-LEAD | @Bearcage |
-| S-SUB_PWM | @Bearcage |
-| S-ZAP | @Bearcage |
-| STY-TECH | @Bearcage |
+| 00_STY-TECH | @Bearcage | 000_S-TEC DRUMS |
+| 01_S-BASS | @Bearcage | 001_S-BASS |
+| 02_S-ZAP | @Bearcage | 002_ZAP |
+| 03_S-LAZER | @Bearcage | 003_S-LAZER |
+| 04_S-TEC_BASS | @Bearcage | 004_S-TEC BASS C1 |
+| 05_S-SUB_PWM | @Bearcage | 005_S-SUB PWM |
+| 06_S-LEAD | @Bearcage | 006_S-LEAD |
 | BASSJEM | @jem |
 | GREENPHANTOM | @jem |
 | BONEXTAL | @sleepside |
