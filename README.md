@@ -60,3 +60,6 @@ These are presets for the [Dirtywave M8](https://dirtywave.com/) for the Discord
 | CALM | @rolkinn |
 | DROPLET | @rolkinn |
 | SWELL | @rolkinn |
+| GTR | @poruvo |
+| HORN | @poruvo |
+| VINTAGEQUERY | @poruvo |
