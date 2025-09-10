@@ -63,3 +63,8 @@ These are presets for the [Dirtywave M8](https://dirtywave.com/) for the Discord
 | GTR | @poruvo |
 | HORN | @poruvo |
 | VINTAGEQUERY | @poruvo |
+| THEREMIN EXT | @Dustsucker |
+| ORBIT | @handeyeco |
+| SPACEORGAN | @handeyeco |
+| TAKEOFF | @handeyeco |
+| TAKEOFFBASS | @handeyeco |
